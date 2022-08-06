@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "hanieum-client",
+    "slug": "hanieum-client",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
