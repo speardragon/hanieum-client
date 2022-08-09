@@ -27,6 +27,7 @@ import { GiftedChat, IMessage } from "react-native-gifted-chat";
 import uuid from "react-native-uuid";
 import axios from "axios";
 
+const uer = "asdf";
 const USER = {
   _id: 1,
   name: "Me",
